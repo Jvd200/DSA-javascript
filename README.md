@@ -29,3 +29,5 @@ Tracking my DSA learning journey — 30 days of concepts, problems, and progress
 ### 💡 Goal
 > Complete 30 days, 100+ problems, and master core DSA patterns in JS!
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/jvdgowda?theme=dark&font=Roboto)
+
