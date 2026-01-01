@@ -1,1 +1,31 @@
 “My 30-day DSA learning journey using JavaScript — tracking daily progress & LeetCode problems.”
+
+# 🧠 30 Days of DSA in JavaScript
+
+Tracking my DSA learning journey — 30 days of concepts, problems, and progress!
+
+---
+
+## 📅 Progress Overview
+
+| Day | Topic | Problems Solved | Link |
+|-----|--------|------------------|------|
+| ✅ 1 | Big-O & Basics | 0 | [Day 1](./Day01/) |
+| ✅ 2 | Arrays | 3 | [Day 2](./Day02/) |
+| ✅ 3 | Two Pointers | 3 | [Day 3](./Day03/) |
+| ✅ 4 | Searching | 3 | [Day 4](./Day04/) |
+| ... | ... | ... | ... |
+
+---
+
+## 🏆 Stats
+- **Total Days Completed:** 5/30  
+- **Total Problems Solved:** 15  
+- **Language:** JavaScript  
+- **Platform:** [LeetCode](https://leetcode.com/)
+
+---
+
+### 💡 Goal
+> Complete 30 days, 100+ problems, and master core DSA patterns in JS!
+
