@@ -10,7 +10,7 @@ Tracking my DSA learning journey — 30 days of concepts, problems, and progress
 
 | Day | Topic | Problems Solved | Link |
 |-----|--------|------------------|------|
-| ✅ 1 | Big-O & Basics | 0 | [Day 1](./Day01/) |
+| ✅ 1 | Big-O & Basics | 0 | [Day_1](./Day01/) |
 | ✅ 2 | Arrays | 3 | [Day 2](./Day02/) |
 | ✅ 3 | Two Pointers | 3 | [Day 3](./Day03/) |
 | ✅ 4 | Searching | 3 | [Day 4](./Day04/) |
